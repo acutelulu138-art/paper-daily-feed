@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "delivered": [
+    {
+      "fingerprint": "b30d44d1d6a987d7ab5ff2913b6109de1139a129f62a70d88692338f98b817f9",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "a92e9af6712d0367b5cdeca807c534569d7fe0a59cde04cd0ae205f742984cf3",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "719f06553b3a5fac75b1637c76751fe1e277ba54e0c498198975cf9d1e68cbab",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "31786e39682cadeea597eb006dadf43ff4469c6bf3de741007ade35dd9aa41bb",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "27ac2e75a785d7b47f9c76842bc2d8a94081db6743217c80333913b0e435ab16",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "89c5525a8cd6468bb6c97934a4bb4ba2cd75b38cc106ad9931e98577c5f605ba",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "52b95cf79b4136a331976b53aafb5cc7445b5a67b35aa673fc80c0d07c28e11d",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "87c3e5b0ed96005e75c6478cea48bec57771524e35507d2ede5599b92d9f36f1",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "890c5cdafd5087d2f345d4b9e12feddb34ae7e155db18f0fb3989eff72c784c0",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    },
+    {
+      "fingerprint": "12d0182a7cabab26f8e51f04da743122dd6541a2e3f44e4939a167f3d302ffe0",
+      "deliveredAt": "2026-05-20T08:26:59.142Z"
+    }
+  ]
+}
