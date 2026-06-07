@@ -580,6 +580,14 @@
     {
       "fingerprint": "e64aaaf69a51bd470fd5ffb1f6f85b4c873e7a7e0c0960d6eecb50d3c9859512",
       "deliveredAt": "2026-06-06T08:11:50.254Z"
+    },
+    {
+      "fingerprint": "a42a972456094979d646be4c1fcaf8099dfd1d805817d681ff763694ea765821",
+      "deliveredAt": "2026-06-07T09:54:04.540Z"
+    },
+    {
+      "fingerprint": "5b35d0884a64404f7bf682124a04f575c87c217d3bbd97593f8c0db6b8387da5",
+      "deliveredAt": "2026-06-07T09:54:04.540Z"
     }
   ]
 }
