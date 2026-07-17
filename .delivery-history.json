@@ -1056,6 +1056,18 @@
     {
       "fingerprint": "2b8c63866d98bf5877608614feed19f459c76fa50939be01a1f8838528024412",
       "deliveredAt": "2026-07-16T23:11:40.087Z"
+    },
+    {
+      "fingerprint": "417c15d60dabc83cd7a83a7f04698e50c70040a072e30ede42bb70967bb6c36c",
+      "deliveredAt": "2026-07-17T23:07:59.897Z"
+    },
+    {
+      "fingerprint": "c7df4c9a432edd8875a82c65cf5f641796852ba73140b2b06de956efcf75732b",
+      "deliveredAt": "2026-07-17T23:07:59.897Z"
+    },
+    {
+      "fingerprint": "7c17ca9801b099d43d9d673de233a0cd505552a1053ce87bbbe679e090d8f2cc",
+      "deliveredAt": "2026-07-17T23:07:59.897Z"
     }
   ]
 }
