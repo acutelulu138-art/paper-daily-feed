@@ -1304,6 +1304,14 @@
     {
       "fingerprint": "fa00015cf9020c03ecb3a7dfe40c43259231ffb0f0fa728cc9edc9de30f94343",
       "deliveredAt": "2026-08-05T23:17:48.757Z"
+    },
+    {
+      "fingerprint": "d53e62322a4949d25049de1b4eae56d2f86fd4f3e1397f8cdd9a830d97d4fe18",
+      "deliveredAt": "2026-08-07T01:37:39.940Z"
+    },
+    {
+      "fingerprint": "de26d9dfd0a09e089c372fcccc61d2ac2401fab0d19671586d3676111e4516a1",
+      "deliveredAt": "2026-08-07T01:37:39.940Z"
     }
   ]
 }
