@@ -1580,6 +1580,18 @@
     {
       "fingerprint": "41605a247c05cbccf73d7996334dcaafe8f3c4a77bacfae8e440c813be29bd19",
       "deliveredAt": "2026-09-08T00:25:56.764Z"
+    },
+    {
+      "fingerprint": "8fa127fed352ea0eac80d0bd78e973d48535ca057ae469cc440875636f97a486",
+      "deliveredAt": "2026-09-10T00:14:46.866Z"
+    },
+    {
+      "fingerprint": "8236ffa8bd727ca7264857031b7cdf14959b012b96c3b9b3ee626b104b3de8a1",
+      "deliveredAt": "2026-09-10T00:14:46.866Z"
+    },
+    {
+      "fingerprint": "570364f5b93326597ece2823db0ff00b3bc91270599f02d260274175f699c834",
+      "deliveredAt": "2026-09-10T00:14:46.866Z"
     }
   ]
 }
