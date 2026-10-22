@@ -2080,6 +2080,14 @@
     {
       "fingerprint": "eaddbe45d6dc6f871c4941488b958c2fefa45e38a7d143295a6f9f04806513a2",
       "deliveredAt": "2026-10-21T00:38:23.920Z"
+    },
+    {
+      "fingerprint": "08100ae300834efc8e65240824f5161a7fcf550ad6851f85829d73f3d505db4f",
+      "deliveredAt": "2026-10-22T00:41:59.826Z"
+    },
+    {
+      "fingerprint": "1bd5391d10a35149f527addec484438737e1c7a54d73295e1de6f5cd5bf28bf1",
+      "deliveredAt": "2026-10-22T00:41:59.826Z"
     }
   ]
 }
