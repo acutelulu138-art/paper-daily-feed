@@ -2108,6 +2108,14 @@
     {
       "fingerprint": "84974e28f961dd8cb3c627f5b251ba03ee3588bf0162ca31923c89a5c6c8e6a5",
       "deliveredAt": "2026-10-24T00:41:48.549Z"
+    },
+    {
+      "fingerprint": "9ec5258880f61450a5c6ced85a2ddf36a7c99b0127f12e492536862072650f3f",
+      "deliveredAt": "2026-10-25T00:21:31.296Z"
+    },
+    {
+      "fingerprint": "4f5af0f5bc0c0d750aa4073c27d03dda71139e62ff65cd88a9452a9473bcb6b3",
+      "deliveredAt": "2026-10-25T00:21:31.296Z"
     }
   ]
 }
