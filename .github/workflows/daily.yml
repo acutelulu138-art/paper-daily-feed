@@ -133,6 +133,9 @@ jobs:
             exit 0
           fi
 
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git fetch --no-tags origin paper-daily-feed-exports || true
           export_root="$(mktemp -d)"
           export_worktree="${export_root}/exports"
