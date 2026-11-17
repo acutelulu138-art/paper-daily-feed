@@ -73,6 +73,7 @@ jobs:
 
       - name: Run recommendation feed
         env:
+          DAILY_FEED_EXPORT_DIR: .daily-feed-output
           APP_CONFIG: ${{ vars.APP_CONFIG }}
           ZOTERO_ID: ${{ secrets.ZOTERO_ID }}
           ZOTERO_KEY: ${{ secrets.ZOTERO_KEY }}
@@ -122,3 +123,34 @@ jobs:
           git -C "${state_worktree}" diff --cached --quiet && exit 0
           git -C "${state_worktree}" commit -m "chore: update delivery history"
           git -C "${state_worktree}" push origin HEAD:paper-daily-feed-state
+
+      - name: Publish daily paper exports
+        run: |
+          set -euo pipefail
+
+          if [ ! -f .daily-feed-output/latest.json ]; then
+            echo "No paper export was produced."
+            exit 0
+          fi
+
+          git fetch --no-tags origin paper-daily-feed-exports || true
+          export_root="$(mktemp -d)"
+          export_worktree="${export_root}/exports"
+          cleanup_exports() {
+            git worktree remove --force "${export_worktree}" >/dev/null 2>&1 || true
+            rmdir "${export_root}" >/dev/null 2>&1 || true
+          }
+          trap cleanup_exports EXIT
+
+          if git show-ref --verify --quiet refs/remotes/origin/paper-daily-feed-exports; then
+            git worktree add --force -B paper-daily-feed-exports "${export_worktree}" origin/paper-daily-feed-exports
+          else
+            git worktree add --detach "${export_worktree}" HEAD
+            git -C "${export_worktree}" switch --orphan paper-daily-feed-exports
+          fi
+
+          cp -R .daily-feed-output/. "${export_worktree}/"
+          git -C "${export_worktree}" add latest.json runs/
+          git -C "${export_worktree}" diff --cached --quiet && exit 0
+          git -C "${export_worktree}" commit -m "chore: export daily recommended papers"
+          git -C "${export_worktree}" push origin HEAD:paper-daily-feed-exports

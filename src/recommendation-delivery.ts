@@ -1,3 +1,4 @@
+import { writeFeedExport } from "./feed-export.js";
 import type { AppConfig, SummaryConfig } from "./app-config.js";
 import type { DeliveryHistorySession } from "./delivery-history.js";
 import { fetchDailyRomance, type DailyRomance } from "./daily-romance.js";
@@ -115,6 +116,7 @@ export async function deliverRecommendations(
 ): Promise<RecommendationDeliveryResult> {
   if (recommendations.length === 0 && !config.runtime.sendEmpty && mode === "run") {
     console.log("No recommended papers above threshold. Skipping email.");
+    writeFeedExport([], now, "no_recommendations", env);
     return { recommendationCount: 0, html: "", sent: false, deliveryDetails: "" };
   }
 
@@ -136,6 +138,7 @@ export async function deliverRecommendations(
   if (recommendations.length > 0) {
     deliveryHistory.confirmSuccessfulDelivery(recommendations, now);
   }
+  writeFeedExport(recommendations, now, "delivered", env);
   const deliveryDetails = describeDelivery(delivery);
   console.log(`Sent ${recommendations.length} recommendations${deliveryDetails}.`);
   return {
