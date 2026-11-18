@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T03:44:15.599Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "Road network CO\n                    <sub>2</sub>\n                    concentration prediction and driving factors analysis based on vehicle-cruising observations and machine learning in Shenzhen, China",
+      "authors": [
+        "Guoxu Li",
+        "Yonglin Zhang",
+        "Tianle Sun",
+        "Li Wang",
+        "Bo Huang",
+        "Wanjuan Song",
+        "Yong Bo",
+        "Ke Wang",
+        "Xiangyun Xiong",
+        "Shiguang Xu",
+        "Lingyun Yao",
+        "Jianwen Zhang",
+        "Zheng Niu"
+      ],
+      "journal": "IJDE",
+      "doi": "10.1080/17538947.2026.2639802",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2639802?af=R",
+      "abstract": "",
+      "publishedAt": "2026-01-02T00:00:00.000Z",
+      "score": 0.3572062051133685
+    }
+  ]
+}
