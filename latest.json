@@ -1,101 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T03:25:06.175Z",
+  "generatedAt": "2026-11-20T03:12:24.055Z",
   "status": "delivered",
   "papers": [
     {
-      "title": "A City-Scale Dataset of Traffic Flows, Travel Times, and Urban Context",
+      "title": "Do urban mobility digital twins reinforce car-centric transportation planning?",
       "authors": [
-        "Riccardo Cappi",
-        "Massimiliano Luca",
-        "Pietro Fontolan",
-        "Nicolò Navarin",
-        "Bruno Lepri",
-        "Alessandro Sperduti"
+        "Mahdi Aghaabbasi"
       ],
-      "journal": "Scientific Data",
+      "journal": "JTG",
       "doi": null,
-      "url": "https://www.nature.com/articles/s41597-026-08524-1",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692326003637?dgcid=rss_sd_all",
       "abstract": "",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "score": 0.5540558006915762
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "score": 0.41359049737190234
     },
     {
-      "title": "Carbon sink performance of urban green spaces across local climate zones: Spatiotemporal heterogeneity, influencing factors, and implications for central Beijing",
+      "title": "Model-agnostic meta-learning for traffic incident detection across different roadways",
       "authors": [
-        "Yaru Zhang",
-        "Jiaxin Guo",
-        "Xin Ai",
-        "Ziyu Mei",
-        "Xi Zheng"
-      ],
-      "journal": "SCS",
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726010085?dgcid=rss_sd_all",
-      "abstract": "",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "score": 0.4092383033297287
-    },
-    {
-      "title": "How should rural residential land in metropolitan suburbs be governed in the future? Evidence from Beijing using RGB-encoded multidimensional drivers and CNN prediction",
-      "authors": [
-        "Zehao Qiao",
-        "Maojun Wang",
-        "Wenyu Xu",
-        "Xuexia Zhang",
-        "Weizhong Liu"
-      ],
-      "journal": "JAG",
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S1569843226005960?dgcid=rss_sd_all",
-      "abstract": "",
-      "publishedAt": "2026-12-01T00:00:00.000Z",
-      "score": 0.3595388616327017
-    },
-    {
-      "title": "Generative Spatial AI and Optimized Continual Spatio-Temporal Graph Convolutional Network for Adaptive Urban Energy and Traffic Management",
-      "authors": [
-        "Ashok Koujalagi",
-        "Yogini Dilip Borole",
-        "B Satyanarayana Murthy",
-        "Kancharla Nagababu",
-        "CH M H Sai baba",
-        "Mukesh Soni"
-      ],
-      "journal": "SCS",
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726009704?dgcid=rss_sd_all",
-      "abstract": "",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "score": 0.3780599244667163
-    },
-    {
-      "title": "Explainable adaptive data-driven spatial air traffic modeling of airport terminal areas",
-      "authors": [
-        "Anthony Chiaratti",
-        "Aaron McFadyen",
-        "Luis Mejias Alvarez"
+        "Xinhao Yang",
+        "Chi Xie"
       ],
       "journal": "TR_C",
       "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X26006510?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X2600598X?dgcid=rss_sd_all",
       "abstract": "",
       "publishedAt": "2027-02-01T00:00:00.000Z",
-      "score": 0.36560877064590525
-    },
-    {
-      "title": "Collision-avoidance knowledge–enhanced reinforcement learning with human driving priors for autonomous safety",
-      "authors": [
-        "Ni Dong",
-        "Mo Zhou",
-        "Xiaobo Liu"
-      ],
-      "journal": "TR_C",
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X26006522?dgcid=rss_sd_all",
-      "abstract": "",
-      "publishedAt": "2027-02-01T00:00:00.000Z",
-      "score": 0.36034897623805767
+      "score": 0.35132538295953086
     }
   ]
 }

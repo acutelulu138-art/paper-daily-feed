@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-20T03:12:24.055Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "Do urban mobility digital twins reinforce car-centric transportation planning?",
+      "authors": [
+        "Mahdi Aghaabbasi"
+      ],
+      "journal": "JTG",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692326003637?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "score": 0.41359049737190234
+    },
+    {
+      "title": "Model-agnostic meta-learning for traffic incident detection across different roadways",
+      "authors": [
+        "Xinhao Yang",
+        "Chi Xie"
+      ],
+      "journal": "TR_C",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X2600598X?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-02-01T00:00:00.000Z",
+      "score": 0.35132538295953086
+    }
+  ]
+}
