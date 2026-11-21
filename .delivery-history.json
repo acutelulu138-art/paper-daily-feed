@@ -2,46 +2,6 @@
   "version": 1,
   "delivered": [
     {
-      "fingerprint": "d88c6be271d015ee9bb8a66e9519be8b82e17da1f91caed4520748f3d05d44e3",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "25fb62c6d6095405db2149db3127c34a61fe598ca29af0df7e7fde1fcdf8c005",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "500781481e5983977e3223f47b48e4d854d38b7499bc327e4290307c3cf9a985",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "b7fd7a8b78f3154a03b65ac446463ad9eea229813688602317f6f8d80341fc9a",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "e33ed9b02a03ae2f75ec8714afb2131b50320d71f0874ffcc2f8a41dcccaa77d",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "99ff39765497f9f7ce57dd78b64cdfa63019d60986481b43194fd2d9d90783b1",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "06d9d433b3f9274b903a7bac12942d03662a3ae74d0c183db7ba46ba4788dfc4",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "428e327f3e7e99632bc93c60f1fa78f4a9a38641f13e3dab7331132f0acb3931",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "7d67929f713ce0464963051198a430aebd2d012e4a6de156b70431b17f6838d0",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
-      "fingerprint": "dfbd0a5ae34968c97c33ee1be8d6b2131ac3c831a6c017873018bcac9fa6971c",
-      "deliveredAt": "2026-05-24T08:08:17.141Z"
-    },
-    {
       "fingerprint": "dcd4b30313418ebf9f031850969691d83a0336175e793a46dfedb7b6828fa1c7",
       "deliveredAt": "2026-05-25T12:09:09.050Z"
     },
@@ -2276,6 +2236,22 @@
     {
       "fingerprint": "5a0263368d84bc94981b876f4800ffea10044ad34bd70d5e5134f7b8a7d366cb",
       "deliveredAt": "2026-11-20T03:12:24.055Z"
+    },
+    {
+      "fingerprint": "fb941a90666cb0737a1dc212b20e13ddbb8b92c329f0a834317e114c95333b4e",
+      "deliveredAt": "2026-11-21T03:13:42.240Z"
+    },
+    {
+      "fingerprint": "0559f96f66cf06204de1d457e425343500f55819fba3baf4c0bba8683e1b092e",
+      "deliveredAt": "2026-11-21T03:13:42.240Z"
+    },
+    {
+      "fingerprint": "56c205a129b1ab4eb4a2a6f72f669348afe49b4e5558a6c00a9a22f3cf8d5bcd",
+      "deliveredAt": "2026-11-21T03:13:42.240Z"
+    },
+    {
+      "fingerprint": "c8715df5f1001b5910a99592469b08a708e7a19a2b669ea108922313397fc81a",
+      "deliveredAt": "2026-11-21T03:13:42.240Z"
     }
   ]
 }
