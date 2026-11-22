@@ -1,76 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:13:42.240Z",
+  "generatedAt": "2026-11-22T02:14:30.243Z",
   "status": "delivered",
   "papers": [
     {
-      "title": "A global open synthetic dataset for vehicular trips in large-scale cities",
+      "title": "Cooperative Fuzzy-Harris Hawks Optimization for Sustainable Urban Traffic Signal Control: Mobility, Spillback, and Environmental Co-benefits",
       "authors": [
-        "Xiaolong Xie",
-        "Hong Zhu",
-        "Keshuang Tang",
-        "Feng Shen",
-        "Zixuan Huang",
-        "Fengmei Sun",
-        "Yujie Tang"
-      ],
-      "journal": "Scientific Data",
-      "doi": "10.1038/s41597-026-08597-y",
-      "url": "https://www.nature.com/articles/s41597-026-08597-y",
-      "abstract": "Abstract High-quality origin-destination (OD) demand and route-level traffic data are essential for urban traffic control, simulation benchmarking, route assignment, digital-twin construction, and model validation. However, collecting such data remains challenging due to limited sensing coverage, privacy concerns, inconsistent data standards, and the scarcity of transferable observations across cities. To address these challenges, we introduce a global open synthetic OD-route traffic dataset covering 20 city-scale study areas through a large language model (LLM)-based data generation method. The released dataset includes road networks, time-dependent OD demand matrices, and vehicle route records. This method comprises four automated modules: initial OD generation through trip distribution with TAZ parameters extracted by an LLM agent, OD fine-tuning via cross-city scenario-bank prior retrieval, OD refinement through knowledge-guided multi-role LLM collaborative inference, and bounded-rational route assignment. It enables the automated processing and integration of publicly available fragmented urban information, producing large-scale, time-dependent OD demand matrices and vehicle route records with consistent data structures. In the technical validation, the generated data were compared with ground truth OD matrices from Boston, Lisbon, Rio de Janeiro, San Francisco, and Los Angeles, showing that the synthetic datasets capture plausible spatial travel demand and route-choice patterns. Additionally, application experiments on the Shanghai Jiading network demonstrate their effectiveness in supporting key tasks such as signal control and traffic flow prediction. Notably, the data generation method is highly reusable and, in principle, can facilitate the creation of OD demand and vehicle route datasets for most cities worldwide.",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "score": 0.4056188148750622
-    },
-    {
-      "title": "Beyond feeder trip volume: how built environment shapes dockless bike–subway integration patterns across cities",
-      "authors": [
-        "Sida Luo",
-        "Jinglu Niu",
-        "Letao Kang",
-        "Jiawen Xie",
-        "Yufeng Zhang",
-        "Chunfu Shao"
-      ],
-      "journal": "TR_A",
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0965856426005161?dgcid=rss_sd_all",
-      "abstract": "",
-      "publishedAt": "2027-02-01T00:00:00.000Z",
-      "score": 0.3955433735504466
-    },
-    {
-      "title": "Quantifying Older Adults’ Outdoor Heat Exposure During Heatwaves: A Shanghai Case Study",
-      "authors": [
-        "Mengze Xu",
-        "Wenqi Qian",
-        "Jiawei Wang",
-        "Zijie Zhou",
-        "Fujie Rao",
-        "Jianong Li",
-        "Jinjun Ran J",
-        "Dayi Lai"
+        "Kaother Youcef Toumi",
+        "Mounir Bouhedda",
+        "Samia Rebouh"
       ],
       "journal": "SCS",
       "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726010140?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726010218?dgcid=rss_sd_all",
       "abstract": "",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "score": 0.3813700083323787
-    },
-    {
-      "title": "Auction-based intersection management for connected autonomous vehicles: Integrating economic mechanisms with trajectory optimization",
-      "authors": [
-        "Rongsheng Chen",
-        "Bingying Chen",
-        "Enjian Yao",
-        "Michael W. Levin"
-      ],
-      "journal": "TR_C",
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X26006534?dgcid=rss_sd_all",
-      "abstract": "",
-      "publishedAt": "2027-02-01T00:00:00.000Z",
-      "score": 0.36815392776756706
+      "publishedAt": "2026-11-21T00:00:00.000Z",
+      "score": 0.38680055631683613
     }
   ]
 }

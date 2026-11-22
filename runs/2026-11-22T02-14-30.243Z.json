@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T02:14:30.243Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "Cooperative Fuzzy-Harris Hawks Optimization for Sustainable Urban Traffic Signal Control: Mobility, Spillback, and Environmental Co-benefits",
+      "authors": [
+        "Kaother Youcef Toumi",
+        "Mounir Bouhedda",
+        "Samia Rebouh"
+      ],
+      "journal": "SCS",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726010218?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-11-21T00:00:00.000Z",
+      "score": 0.38680055631683613
+    }
+  ]
+}
