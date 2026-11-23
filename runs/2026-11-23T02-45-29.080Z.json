@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-23T02:45:29.080Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "IEEE Transactions on Intelligent Transportation Systems Information for Authors",
+      "authors": [],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3746539",
+      "url": "https://doi.org/10.1109/tits.2026.3746539",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.4751225437803298
+    },
+    {
+      "title": "AirTrafficGen: Configurable Air Traffic Scenario Generation With Large Language Models",
+      "authors": [
+        "Dewi S. W. Gould",
+        "Benjamin Carvell",
+        "George De Ath",
+        "Nick Pepper"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3724336",
+      "url": "https://doi.org/10.1109/tits.2026.3724336",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.46829792856687247
+    },
+    {
+      "title": "Smart Logistic System: A Multidisciplinary Integrated System for Driving Safety and Transportation Management",
+      "authors": [
+        "Hussein Sh. Mogahed",
+        "Ahmed H. Mohamed",
+        "Mohamed A. Ali"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3727314",
+      "url": "https://doi.org/10.1109/tits.2026.3727314",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.46247441068869055
+    },
+    {
+      "title": "IEEE Transactions on Intelligent Transportation Systems Publication Information",
+      "authors": [],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3746538",
+      "url": "https://doi.org/10.1109/tits.2026.3746538",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.444559085017864
+    },
+    {
+      "title": "Queue-Based Traffic Signal Control Considering Vehicle Delay Balancing for Urban Road Networks",
+      "authors": [
+        "Lei Wei",
+        "Yu Mei",
+        "Peng Chen"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3724288",
+      "url": "https://doi.org/10.1109/tits.2026.3724288",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.410366832360312
+    },
+    {
+      "title": "Trustworthy Data- and ML-Ops for Intelligent Transportation Systems and Logistics",
+      "authors": [
+        "Antonio Emanuele Cinà",
+        "Giovanni Scodeller",
+        "Cecilia Caterina Pasquale",
+        "Silvia Siri",
+        "Davide Anguita",
+        "Fabio Roli",
+        "Simona Sacone",
+        "Luca Oneto"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3711756",
+      "url": "https://doi.org/10.1109/tits.2026.3711756",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.4091742982177707
+    },
+    {
+      "title": "Exploring Spatio-Temporal Periodic Patterns: A Multi-Period Bus Stop Flow Prediction Framework",
+      "authors": [
+        "Jiaxin Du",
+        "Xutao Han",
+        "Guojiang Shen",
+        "Zhehui Shen",
+        "Shuo Yu",
+        "Xiangjie Kong",
+        "Feng Xia"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3716717",
+      "url": "https://doi.org/10.1109/tits.2026.3716717",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.39809563224786476
+    },
+    {
+      "title": "Dynamic Configuration of On-Street Parking Spaces for Enhanced Traffic Flow Using Reinforcement Learning",
+      "authors": [
+        "Oshada Jayasinghe",
+        "Farhana Choudhury",
+        "Egemen Tanin",
+        "Shanika Karunasekera"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3730476",
+      "url": "https://doi.org/10.1109/tits.2026.3730476",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.38948226101253675
+    },
+    {
+      "title": "A Sensitivity-Based Heuristic for Economic Optimal CAVs Coordination in Mixed Traffic at Intersections",
+      "authors": [
+        "Muhammad Faris",
+        "Mario Zanon",
+        "Paolo Falcone"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3724811",
+      "url": "https://doi.org/10.1109/tits.2026.3724811",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.38343568382431353
+    },
+    {
+      "title": "NNISGGA: A Lightweight Method for Generating Large-Scale Road Network Maintenance Plans",
+      "authors": [
+        "Qingwei Zeng",
+        "Xinyi Yang",
+        "Zhe Wu",
+        "Chang Xu",
+        "Shunxin Yang",
+        "Guoyang Lu"
+      ],
+      "journal": "IEEE T-ITS",
+      "doi": "10.1109/tits.2026.3722846",
+      "url": "https://doi.org/10.1109/tits.2026.3722846",
+      "abstract": "",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "score": 0.3823736483882262
+    }
+  ]
+}
