@@ -2256,6 +2256,14 @@
     {
       "fingerprint": "0cc2075ce20ea7643605ba3e53aa78db364d0b0a80ca201bf769ee87a22846e8",
       "deliveredAt": "2026-11-23T02:45:29.080Z"
+    },
+    {
+      "fingerprint": "ef9155b5907f61ff44246de0b8eb034897bcb0792d885ab41c866e5cd07ec22d",
+      "deliveredAt": "2026-11-24T06:00:35.335Z"
+    },
+    {
+      "fingerprint": "3d93736b283214d55b2a4a6f4ca684826621101773973f8fc31ae905d0d7321f",
+      "deliveredAt": "2026-11-24T06:00:35.335Z"
     }
   ]
 }
