@@ -1,153 +1,36 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T02:45:29.080Z",
+  "generatedAt": "2026-11-24T06:00:35.335Z",
   "status": "delivered",
   "papers": [
     {
-      "title": "IEEE Transactions on Intelligent Transportation Systems Information for Authors",
-      "authors": [],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3746539",
-      "url": "https://doi.org/10.1109/tits.2026.3746539",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.4751225437803298
-    },
-    {
-      "title": "AirTrafficGen: Configurable Air Traffic Scenario Generation With Large Language Models",
+      "title": "Spatial zoning effects on short-term taxi demand prediction: A machine learning and deep learning analysis",
       "authors": [
-        "Dewi S. W. Gould",
-        "Benjamin Carvell",
-        "George De Ath",
-        "Nick Pepper"
+        "Moslem Dehnavi Eelagh",
+        "Rahim Ali Abbaspour",
+        "Mina Khalesian",
+        "Ludovic Leclercq"
       ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3724336",
-      "url": "https://doi.org/10.1109/tits.2026.3724336",
+      "journal": "JTG",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692326003327?dgcid=rss_sd_all",
       "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.46829792856687247
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "score": 0.4175226616165884
     },
     {
-      "title": "Smart Logistic System: A Multidisciplinary Integrated System for Driving Safety and Transportation Management",
+      "title": "Is X-minute city accessibility associated with mode-specific travel behavior? District-level evidence from Munich",
       "authors": [
-        "Hussein Sh. Mogahed",
-        "Ahmed H. Mohamed",
-        "Mohamed A. Ali"
+        "Hamza Begic",
+        "Amélie Casparé",
+        "Constantinos Antoniou"
       ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3727314",
-      "url": "https://doi.org/10.1109/tits.2026.3727314",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.46247441068869055
-    },
-    {
-      "title": "IEEE Transactions on Intelligent Transportation Systems Publication Information",
-      "authors": [],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3746538",
-      "url": "https://doi.org/10.1109/tits.2026.3746538",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.444559085017864
-    },
-    {
-      "title": "Queue-Based Traffic Signal Control Considering Vehicle Delay Balancing for Urban Road Networks",
-      "authors": [
-        "Lei Wei",
-        "Yu Mei",
-        "Peng Chen"
-      ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3724288",
-      "url": "https://doi.org/10.1109/tits.2026.3724288",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.410366832360312
-    },
-    {
-      "title": "Trustworthy Data- and ML-Ops for Intelligent Transportation Systems and Logistics",
-      "authors": [
-        "Antonio Emanuele Cinà",
-        "Giovanni Scodeller",
-        "Cecilia Caterina Pasquale",
-        "Silvia Siri",
-        "Davide Anguita",
-        "Fabio Roli",
-        "Simona Sacone",
-        "Luca Oneto"
-      ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3711756",
-      "url": "https://doi.org/10.1109/tits.2026.3711756",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.4091742982177707
-    },
-    {
-      "title": "Exploring Spatio-Temporal Periodic Patterns: A Multi-Period Bus Stop Flow Prediction Framework",
-      "authors": [
-        "Jiaxin Du",
-        "Xutao Han",
-        "Guojiang Shen",
-        "Zhehui Shen",
-        "Shuo Yu",
-        "Xiangjie Kong",
-        "Feng Xia"
-      ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3716717",
-      "url": "https://doi.org/10.1109/tits.2026.3716717",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.39809563224786476
-    },
-    {
-      "title": "Dynamic Configuration of On-Street Parking Spaces for Enhanced Traffic Flow Using Reinforcement Learning",
-      "authors": [
-        "Oshada Jayasinghe",
-        "Farhana Choudhury",
-        "Egemen Tanin",
-        "Shanika Karunasekera"
-      ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3730476",
-      "url": "https://doi.org/10.1109/tits.2026.3730476",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.38948226101253675
-    },
-    {
-      "title": "A Sensitivity-Based Heuristic for Economic Optimal CAVs Coordination in Mixed Traffic at Intersections",
-      "authors": [
-        "Muhammad Faris",
-        "Mario Zanon",
-        "Paolo Falcone"
-      ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3724811",
-      "url": "https://doi.org/10.1109/tits.2026.3724811",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.38343568382431353
-    },
-    {
-      "title": "NNISGGA: A Lightweight Method for Generating Large-Scale Road Network Maintenance Plans",
-      "authors": [
-        "Qingwei Zeng",
-        "Xinyi Yang",
-        "Zhe Wu",
-        "Chang Xu",
-        "Shunxin Yang",
-        "Guoyang Lu"
-      ],
-      "journal": "IEEE T-ITS",
-      "doi": "10.1109/tits.2026.3722846",
-      "url": "https://doi.org/10.1109/tits.2026.3722846",
-      "abstract": "",
-      "publishedAt": "2026-11-01T00:00:00.000Z",
-      "score": 0.3823736483882262
+      "journal": "Cities",
+      "doi": "10.2139/ssrn.6827108",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126009741?dgcid=rss_sd_all",
+      "abstract": "The X-minute city is built on the idea that proximity to essential daily destinations should support more sustainable travel and improve urban livability, yet this behavioral claim has rarely been tested directly with observed mobility data at the city district level. This paper addresses that gap by providing the first empirical test of whether X-minute city accessibility conditions are associated with modal split across walking, cycling, public transport and car use in Munich’s 25 administrative districts. It does so using the city’s district-level travel survey data, allowing accessibility to be linked not just to where opportunities are located, but to how residents actually travel. Accessibility is measured using Geo Open Accessibility Tool indicators, including mean travel times and 15-minute reachability coverage across six destination categories. These measures are then combined with district-level modal sharesfrom the 2023 System of Representative Transport Surveys. Using Spearman rank correlations and population-weighted regression models, the paper shows that accessibility is strongly associated with walking and car use, with destination proximity alone explaining over 85% of the variance in both modes. Cycling shows a weaker but statistically significant relationship, while public transport shares are not significantly related to proximity-based accessibility to public transport stations, suggesting that network connectivity and service frequency are more important for that mode. Overall, the findings provide district-scale empirical evidence for the behavioral patterns of the X-minute city across transport modes, while showing that explanatory power differs substantially between them.",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.3600828845106857
     }
   ]
 }
