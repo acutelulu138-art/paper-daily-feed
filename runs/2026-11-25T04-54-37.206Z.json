@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-25T04:54:37.206Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "A Unified Hybrid SD–ABM–ML Simulation Framework for Sustainable Urban Mobility: Policy Experimentation for Tehran",
+      "authors": [
+        "Nader Ghaemmaghami Noori",
+        "Sadigh Raissi",
+        "Farhad Hosseinzadeh Lotfi",
+        "Ali Shahabi"
+      ],
+      "journal": "SCS",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726010103?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "score": 0.43456752489847705
+    },
+    {
+      "title": "Latent mobility profiles of soccer fans at large events: The case of Allianz Arena in Munich",
+      "authors": [
+        "Juan Nicolas Gonzalez",
+        "Álvaro Aguilera-García",
+        "Anestis Papanikolaou",
+        "Juan Gomez",
+        "José Manuel Vassallo"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010693?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.3725104854000852
+    },
+    {
+      "title": "Built to heal? Propensity-score-matched associations between urban architecture and public health across U.S. metropolitan areas",
+      "authors": [
+        "Siavash Ghorbany",
+        "Ming Hu",
+        "Siyuan Yao",
+        "Matthew Sisk",
+        "Chaoli Wang",
+        "Kai Zhang",
+        "Quynh Camthi Nguyen",
+        "Meng Jiang",
+        "Mohammad Gharipour"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010838?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.3723705798012923
+    }
+  ]
+}
