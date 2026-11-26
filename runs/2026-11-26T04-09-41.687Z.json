@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T04:09:41.687Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "Benchmarking intelligent transportation system performance for sustainable urban mobility: A policy-oriented framework",
+      "authors": [
+        "Salih OZCELIK",
+        "Huseyin KORKMAZ",
+        "Akif FIDANOGLU"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126011145?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.5101001372585946
+    },
+    {
+      "title": "Unravelling the dual displacement risks of urban renewal: A causal inference framework integrating double machine learning and XAI",
+      "authors": [
+        "Guang Li",
+        "Wei Li",
+        "Chuan Lin",
+        "Chuanzhun Sun",
+        "Yinxin Su",
+        "Jingna Liang",
+        "Yilun Liu"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126007584?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-08-29T00:00:00.000Z",
+      "score": 0.3591102152103261
+    },
+    {
+      "title": "Estimated risk of premature heat-related mortality under future warming and association with socioeconomic conditions",
+      "authors": [
+        "Long Qian",
+        "Lifeng Wu",
+        "Xingjiao Yu",
+        "Guomin Huang",
+        "Ruiqi Du",
+        "Rangjian Qiu",
+        "Yaokui Cui",
+        "Fa Liu"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S026427512601005X?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.35575701555542133
+    },
+    {
+      "title": "Automated urbanism: A conceptual framework for democratizing city management through AI-enhanced N8N workflows",
+      "authors": [
+        "Ehsan Dorostkar"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S026427512601111X?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.40535969286270207
+    },
+    {
+      "title": "Smart cities or resilient cities? Strategic planning, governance, and leadership in technology-based climate initiatives across European cities",
+      "authors": [
+        "Laura Alcaide Muñoz",
+        "Manuel Pedro Rodríguez Bolívar",
+        "Cristina Alcaide Muñoz"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126009534?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.3600329713993654
+    }
+  ]
+}
