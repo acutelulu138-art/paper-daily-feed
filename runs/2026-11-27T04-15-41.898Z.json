@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T04:15:41.898Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "Quantifying nonlinear effects of urban morphology on carbon emissions using the local climate zone framework: evidence from Guangdong Province, China",
+      "authors": [
+        "Lin Su",
+        "Jinbo Qi",
+        "Le Wang",
+        "Jiashuai Wang",
+        "Hua Liu",
+        "Jinpei Ou"
+      ],
+      "journal": "SCS",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726008814?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "score": 0.44004067527362095
+    },
+    {
+      "title": "From flood exposure to transport criticality: Spatial prioritisation of flood-vulnerable urban road corridors",
+      "authors": [
+        "Dimos Touloumidis",
+        "Christos Iliadis",
+        "Michael Madas",
+        "Georgia Ayfantopoulou",
+        "Vassilis Glenis"
+      ],
+      "journal": "JTG",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692326003650?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "score": 0.38692259425786213
+    },
+    {
+      "title": "Causal machine learning for transportation: A survey of methods, applications, and future directions",
+      "authors": [
+        "Yixu He",
+        "Yang Liu",
+        "Zhou Zhang",
+        "Zhuoyan Wei",
+        "Mingyang Pei",
+        "Xiaobo Qu"
+      ],
+      "journal": "TR_C",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X26006649?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-02-01T00:00:00.000Z",
+      "score": 0.3578079032639043
+    }
+  ]
+}
