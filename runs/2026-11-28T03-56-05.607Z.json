@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T03:56:05.607Z",
+  "status": "delivered",
+  "papers": [
+    {
+      "title": "Scenario-based urban zoning analytics in a GIS Planning Support System: A parcel-level assessment framework using CommunityViz Pro",
+      "authors": [
+        "Ersia Stylianou",
+        "Demetris Demetriou"
+      ],
+      "journal": "SCS",
+      "doi": "10.2139/ssrn.7191295",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2210670726010383?dgcid=rss_sd_all",
+      "abstract": "Urban planning authorities increasingly need spatial decision-support tools that can assess alternative zoning futures before policy decisions are adopted. This paper develops and tests a parcel-based GIS planning support workflow using the new version of CommunityViz Pro (CViz Pro, updated in June 2026) within ArcGIS Pro, to evaluate alternative zoning scenarios for Limassol, Cyprus. Using the Limassol Local Plan 2013 and the LimassolZ zoning layer as the base condition, the workflow connects zoning attributes, environmental restrictions, scenario assumptions, dynamic attributes, indicators, suitability analysis, allocation and build-out testing. The scenarios used for this analysis are: S1 Business as Usual (BAU), representing the existing Limassol Local Plan; S2 Compact Smart Growth, S3 Expansion Market-Driven Growth and S4 Green Resilient City. The results show that CViz Pro can translate planning assumptions into measurable evidence for comparing development capacity, residential potential, land availability and environmental sensitivity. BAU provides a baseline, which is not the most balanced option across the sustainability dimensions tested. S2 performs strongest in development and residential capacity, S3 shows that land availability alone does not determine planning quality, and S4 highlights the importance of environmental and hydrological sensitivity. The paper contributes a planner-oriented workflow for evidence-based zoning assessment and suggests that future revisions of the Limassol Local Plan could benefit from stronger integration between compact growth, residential capacity and environmental resilience.",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "score": 0.44025811108344565
+    },
+    {
+      "title": "Anticipating future incremental densification: A parcel-level modelling framework for urban planning",
+      "authors": [
+        "Denise Ehrhardt",
+        "Sebastian Eichhorn",
+        "Eric Koomen",
+        "Mathias Jehling"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010036?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.40286090179083356
+    },
+    {
+      "title": "From cooling potential to marginal benefits: A smart-city framework for equitable green infrastructure planning under extreme heat",
+      "authors": [
+        "Newaz Ibrahim Khan",
+        "Alessio Russo",
+        "Umberto Baresi"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010139?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.39149377530350005
+    },
+    {
+      "title": "Issue-time probabilistic travel time forecasting under completion delay for an ANPR-instrumented urban arterial",
+      "authors": [
+        "Hanwu Qin",
+        "Dianhai Wang",
+        "Meng Zhang",
+        "Shenao Bao"
+      ],
+      "journal": "TR_C",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X26006625?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-02-01T00:00:00.000Z",
+      "score": 0.38054580902106294
+    },
+    {
+      "title": "Traffic in Britain: The effect of road capacity changes",
+      "authors": [
+        "Miquel-Àngel Garcia-López",
+        "Yadira Gómez-Hernández",
+        "Rosa Sanchis-Guarner"
+      ],
+      "journal": "TR_A",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0965856426005148?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-02-01T00:00:00.000Z",
+      "score": 0.3792122656428978
+    },
+    {
+      "title": "Sustainable transportation assessment for European countries with smart cities",
+      "authors": [
+        "Sara Salehi",
+        "Neyre Tekbıyık-Ersoy"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010887?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.37743525473110584
+    },
+    {
+      "title": "An uncertainty-aware predictive tidal-lane control framework for highway toll plazas under spatiotemporal scenario heterogeneity",
+      "authors": [
+        "Xinghua Hu",
+        "Ruifeng Zhu",
+        "Jiahao Zhao",
+        "Bo Liu",
+        "Jia Zhu"
+      ],
+      "journal": "TR_C",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0968090X26006686?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2027-02-01T00:00:00.000Z",
+      "score": 0.3658651666286859
+    },
+    {
+      "title": "Encouraging community-led initiatives in urban spaces: Spatial distribution, installer profiles, and design of Vienna's “Green Parklets”",
+      "authors": [
+        "Naomi Shimpo",
+        "Naotaka Ota"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010711?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.36342012298310516
+    },
+    {
+      "title": "From potential to realized accessibility: Revisiting accessibility theory in 15-Minute City research",
+      "authors": [
+        "Saad AlQuhtani"
+      ],
+      "journal": "Cities",
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275126010607?dgcid=rss_sd_all",
+      "abstract": "",
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "score": 0.35307561754700373
+    }
+  ]
+}
